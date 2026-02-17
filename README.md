@@ -1,116 +1,129 @@
-# 👋 Hola, soy Harley Yefrey Cabrales Vargas
+<h1 align="center">🚀 Harley Yefrey Cabrales Vargas</h1>
+<h3 align="center">💻 Desarrollador Junior Fullstack | 🤖 Apasionado por la Automatización</h3>
 
-💻 Desarrollador Junior Fullstack  
-📍 Bucaramanga, Colombia  
-🚀 Apasionado por la automatización, el backend y la resolución lógica de problemas  
-
----
-
-## 👨‍💻 Sobre mí
-
-Soy desarrollador de software con experiencia en proyectos utilizando **Python, HTML, CSS, JavaScript y Node.js**, con manejo de bases de datos **SQL y MongoDB**.
-
-Tengo experiencia desarrollando soluciones reales que automatizan procesos, optimizan tareas y mejoran la gestión de información. Me caracterizo por mi pensamiento lógico, enfoque racional y disciplina para cumplir objetivos.
+<p align="center">
+  📍 Bucaramanga, Colombia <br>
+  🎯 Enfocado en Backend, Automatización y Soluciones Reales
+</p>
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🧠 Sobre Mí
 
-### Lenguajes
-- Python
-- JavaScript
-- HTML
-- CSS
+💡 Desarrollador de software con experiencia en:
 
-### Backend
-- Node.js
-- Express
+- 🐍 Python  
+- 🌐 HTML & CSS  
+- ⚡ JavaScript  
+- 🖥️ Node.js & Express  
+- 🗄️ MongoDB & MySQL  
 
-### Bases de Datos
-- MongoDB
-- MySQL
+Me especializo en crear soluciones que **automatizan procesos**, optimizan tareas y resuelven problemas reales.  
+Me caracterizo por mi pensamiento lógico, disciplina y enfoque orientado a resultados.
 
-### Automatización
-- N8N
-- PIX RPA
-- RocketBot RPA
+---
 
-### Control de Versiones
-- Git & GitHub
+## 🛠️ Stack Tecnológico
+
+### 👨‍💻 Lenguajes
+🐍 Python  
+⚡ JavaScript  
+🌐 HTML  
+🎨 CSS  
+
+### 🖥️ Backend
+🟢 Node.js  
+🚂 Express  
+
+### 🗄️ Bases de Datos
+🍃 MongoDB  
+🐬 MySQL  
+
+### 🤖 Automatización
+🔄 N8N  
+⚙️ PIX RPA  
+🧩 RocketBot RPA  
+
+### 🔧 Herramientas
+🔀 Git  
+🐙 GitHub  
 
 ---
 
 ## 📂 Proyectos Destacados
 
-### 🧾 Gestor de Portafolio de Proyectos (Freelance)
-Desarrollo de un sistema en **Node.js** que permite a freelancers gestionar:
-- Clientes
-- Ofertas
-- Proyectos
-- Finanzas
+### 🧾 Gestor de Portafolio Freelance
+📌 Sistema desarrollado en Node.js para gestionar:
+- 👥 Clientes
+- 📄 Ofertas
+- 📊 Proyectos
+- 💰 Finanzas
 
 ---
 
-### 🎂 Dulce Encanto – Automatización con N8N
-Automatización para una pastelería mediante:
-- Bot de Telegram
-- Visualización de productos
-- Gestión de pedidos
-- Información automatizada de la empresa
+### 🎂 Dulce Encanto – Bot Automatizado
+🤖 Automatización con N8N:
+- 📲 Bot de Telegram
+- 🛍️ Visualización de productos
+- 🧾 Gestión de pedidos
+- 📢 Información automatizada
 
 ---
 
 ### 🎬 KarenFlix
-Aplicación web de críticas de películas desarrollada con:
-- Frontend en HTML y CSS
-- Backend en Node.js
-- Base de datos en MongoDB
+🌐 Web de críticas de películas:
+- Frontend: HTML & CSS  
+- Backend: Node.js  
+- Base de datos: MongoDB  
 
-Permite:
-- Agregar películas y series
-- Compartir opiniones
-- Gestionar contenido dinámico
-
----
-
-### 🤖 Automatización de Productos (PIX Robotics)
-Automatización para:
-- Búsqueda de productos en Mercado Libre
-- Generación automática de informes en Excel y Word
-- Envío automático de reportes por correo
+✔️ Agregar películas y series  
+✔️ Compartir opiniones  
+✔️ Gestión dinámica de contenido  
 
 ---
 
-## 🎓 Formación
+### 📊 Automatización de Productos
+🔎 Búsqueda automatizada en Mercado Libre  
+📄 Generación automática de informes (Excel y Word)  
+📧 Envío automático por correo  
 
-- Técnico en Desarrollo de Software – Campuslands (2025)
-- Bootcamp PIX RPA – PIX Robotics (2025)
-- RocketBot RPA (2025)
+---
+
+## 🎓 Formación Académica
+
+🎓 Técnico en Desarrollo de Software – Campuslands (2025)  
+🤖 Bootcamp PIX RPA – PIX Robotics (2025)  
+🧩 RocketBot RPA (2025)  
 
 ---
 
 ## 🌎 Idiomas
-- Inglés – Nivel A2
+
+🇺🇸 Inglés – Nivel A2  
 
 ---
 
-## 🔗 Enlaces
+## 🔗 Conecta Conmigo
 
-🌐 Portafolio:  
-https://harleyyefreycabralesvargas.github.io/portafolio/
+🌐 Portafolio  
+👉 https://harleyyefreycabralesvargas.github.io/portafolio/
 
-💻 GitHub:  
-https://github.com/harleyyefreycabralesvargas
+💻 GitHub  
+👉 https://github.com/harleyyefreycabralesvargas
 
-💼 LinkedIn:  
-https://www.linkedin.com/in/harley-cabrales-vargas
+💼 LinkedIn  
+👉 https://www.linkedin.com/in/harley-cabrales-vargas
 
 ---
 
 ## 📈 Objetivo Profesional
 
-Seguir creciendo como desarrollador Fullstack, participar en proyectos de alto impacto y especializarme en automatización y arquitectura backend.
+🚀 Crecer como desarrollador Fullstack  
+⚙️ Especializarme en automatización y arquitectura backend  
+🌍 Participar en proyectos de alto impacto  
 
 ---
 
-⭐ Siempre abierto a nuevos proyectos y oportunidades de aprendizaje.
+<p align="center">
+✨ Construyendo soluciones, automatizando procesos y mejorando cada día ✨
+</p>
